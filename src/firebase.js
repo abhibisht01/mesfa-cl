@@ -5,13 +5,7 @@ import 'firebase/compat/storage';
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAi8-Hpv4J7JFfjJqYJXwwOMUY-UN49uOs",
-    authDomain: "mesfa-cl.firebaseapp.com",
-    projectId: "mesfa-cl",
-    storageBucket: "mesfa-cl.appspot.com",
-    messagingSenderId: "697515705006",
-    appId: "1:697515705006:web:59be5ba48861785aaa233f",
-    measurementId: "G-06J90JM951"
+   wRITE yOURS
 };
 
 // Initialize Firebase
